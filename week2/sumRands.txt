@@ -1,0 +1,1 @@
+Generating 5 random integer values between 1 and 10 then adding them up means there will be a minimum of 5 and a maximum of 50.

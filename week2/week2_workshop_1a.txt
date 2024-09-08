@@ -1,0 +1,4 @@
+Test case   Width   Height  areaRect
+1           5       4       20.00
+2           4.3     2.6     11.18
+3           21      15.2    319.20

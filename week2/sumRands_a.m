@@ -1,0 +1,2 @@
+myRand = rand();
+disp(myRand);
