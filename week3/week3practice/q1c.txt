@@ -1,0 +1,6 @@
+B vector is to contain the cubes of the numbers in A,
+it will have 2 turning points as any cubed function.
+
+C vector to contain 2 raised to the power of each element of A,
+it can't be lower than 0 so it will tend towards zero to the left
+and increase up to infinity.
