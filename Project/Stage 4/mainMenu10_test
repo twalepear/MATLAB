@@ -1,0 +1,14 @@
+tests each option to make sure it works with something
+Input   Input2 (if necessary)           Expected Output                             Actual Output
+1       C C C C C C H H H H H H         78.114                                      78.114 
+2       60                              333.15                                      333.15
+3       131722.5,0.0001,0,8.314,350     0.00452670                                  0.00452670
+4       low temperatures                "-deltaH" "low temperatures" "-deltaS"      "-deltaH" "low temperatures" "-deltaS"
+                                        "+deltaH" "low temperatures" "+deltaS"      "+deltaH" "low temperatures" "+deltaS"
+5       nil                             equilibriumConstants.png                    equilibriumConstants.png
+6       1,0.00463,-0.0000536,0,0.01158  0.00536349                                  0.00536349
+7       nil                             intermolecularForces.png                    intermolecularForces.png
+8       nil                             determiningOxidationStates.png              determiningOxidationStates.png
+9       nil                             redoxReactionsBalancingSteps.png            redoxReactionsBalancingSteps.png
+10      nil                             cellNotationAndGalvanicCell.png             cellNotationAndGalvanicCell.png
+0       nil                             end the program                             end the program

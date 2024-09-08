@@ -1,0 +1,13 @@
+Project Rubric
+Conceptual coverage:
+My project includes lots of loops, conditional execution and functions. Vectors are only seen in the drivers, and there is a 2D array in option 4 but whether that counts I’m unsure. I’d say most concepts are covered, 30 Pts Substantial.
+Value-add:
+Implements the base functionality of the project because it works but it’s very clunky so user input is very specific to get the answers to come out, maybe 13 Pts Pass.
+Incremental Development:
+There are files to indicate the path to development of the program however, the commenting is not on point – not sure how to “well-comment” files anyway, 7.5 Pts Pass.
+Testing Strategy:
+Multiple stages of testing were done strategically, so there are Drivers for some functions where some functions without one that is carefully written are ones that evidently function could not be used directly in the main file but with extra coding for it to work, 11.25 Pts Substantial.
+Comments and style:
+I am particular with my indenting but not sure about the use of variable names. I tried commenting but I am not sure how well I wrote my comments as I haven’t had feedback about my commenting, 5 Pts Pass
+
+https://youtu.be/h_Q0wUDxxfA
