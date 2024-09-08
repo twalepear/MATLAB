@@ -1,0 +1,21 @@
+assume that everyone in the city drive
+distance: Hartley Building to Arndale Shopping Centre = about 8km
+distance: Hartley Building to Mawson Lakes Interchange = about 15km
+distance: Hartley Building to Salisbury Interchange = about 20km
+distance: Hartley Building to Tea Tree Plaza = about 14km
+
+https://petrolspy.com.au/map/latlng/-34.903225663344976/138.5825256196947
+petrol prices are 168.5-169.5-171.9 per Litre as of 28/7/24
+
+https://www.mycar.com.au/car-advice/how-to-know-and-maximise-your-fuel-efficiency.html#:~:text=Small%20car%3A%205%2D6L%2F,Hybrid%3A%204L%2F100km
+as of 28/7/24
+small cars: 5-6L/100km
+ute:        7-8L/100km
+SUV:        8-9L/100km
+Hybrid:     4L/100km
+
+https://account.ezyreg.sa.gov.au/account/vehicle-rego-enquiry.htm
+as of 28/7/24 for vehicle, sedan
+1 month: $57.29-82.94; 3 months: $170.79-248.79; 12 months: $653.10-949.10;
+CTP included
+

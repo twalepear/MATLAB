@@ -1,0 +1,14 @@
+Text case 1: 10000
+Expected output: 4849
+Actual output: 4849
+Test case 1 is for a reasonable round number
+
+Text case 2: 3452
+Expected output: 
+Actual output: 1674
+Test case 2 is for random smaller number than test case 1
+
+Text case 3: 1
+Expected output: 0
+Actual output: 0
+Test case 3 is for a simple number below 10

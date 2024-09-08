@@ -1,0 +1,8 @@
+Text case   Population  Expected output 1   Actual output 1 Expected output 2   Actual output 2 
+1           10000       4849                4849            1.62                1.62
+Test case 1 is for a reasonable round number.
+2           1306000     633321              633321          100                 100
+Test case 2 is using 1.306 million people in Adelaide (2016) as per Google search 28/7/24
+3           246500      119536              119536          39.85               39.85
+Test case 3 is using 246500 people in Northern Territory (2020) as per Google search 28/7/24,
+to get a percentage below 100 but higher than 5%

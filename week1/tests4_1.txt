@@ -1,0 +1,14 @@
+Text case 1: 10000
+Expected output: 43401
+Actual output: 43401
+Test case 1 is for a reasonable round number
+
+Text case 2: 1306000
+Expected output: 5668170.60
+Actual output: 5668170.60
+Test case 2 is using 1.306 million people in Adelaide (2016) as per Google search 28/7/24
+
+Text case 3: 246500
+Expected output: 1069834.65
+Actual output: 1069834.65
+Test case 3 is using 246500 people in Northern Territory (2020) as per Google search 28/7/24

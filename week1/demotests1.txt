@@ -1,0 +1,6 @@
+Text case   Length  Width   Expected output:    Actual output:
+1           2       2       4                   4
+2           8       0
+3           -1.7    8
+
+HAS TO BE THREE DIFFERENT TEST CASES
