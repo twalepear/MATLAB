@@ -1,2 +1,0 @@
-function = wordsWithAll(fileName)
-
