@@ -1,2 +1,0 @@
-myRand = rand();
-disp(myRand);
